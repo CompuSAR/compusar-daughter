@@ -639,6 +639,14 @@
     [
       "77e944fc-0d48-45ba-8b41-c4bedb161004",
       "Root"
+    ],
+    [
+      "70f763ed-c49a-448e-ae07-cda53ade6bca",
+      "USB hub"
+    ],
+    [
+      "44b8522e-37ab-47d4-88d1-75103d0cd1eb",
+      "Real Time Clock"
     ]
   ],
   "text_variables": {}
