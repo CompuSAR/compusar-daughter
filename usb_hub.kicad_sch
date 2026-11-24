@@ -4455,7 +4455,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "35c1772a-3bc3-4169-8ab1-5a9e381ce4a8")
-		(property "Reference" "R11"
+		(property "Reference" "R21"
 			(at 87.63 118.11 90)
 			(effects
 				(font
@@ -4507,7 +4507,7 @@
 		(instances
 			(project "CompuSar-Daughter"
 				(path "/77e944fc-0d48-45ba-8b41-c4bedb161004/70f763ed-c49a-448e-ae07-cda53ade6bca"
-					(reference "R11")
+					(reference "R21")
 					(unit 1)
 				)
 			)
